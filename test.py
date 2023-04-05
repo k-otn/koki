@@ -3,3 +3,6 @@ def hoge(text):
 
 hoge("cancer")
 hoge("aaa")
+
+
+print("hello")
